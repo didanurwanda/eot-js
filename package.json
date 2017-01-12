@@ -1,11 +1,35 @@
 {
   "name": "eot-js",
   "version": "1.0.0",
-  "description": "EOT for js",
+  "description": "Javascript heredoc syntax for create a multiline string",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Dida Nurwanda",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://didanurwanda@github.com/didanurwanda/eot-js.git"
+  },
+  "keywords": [
+    "EOT",
+    "EOF",
+    "EOL",
+    "end of file",
+    "end of line",
+    "php eof",
+    "php eol",
+    "php eot",
+    "heredoc",
+    "js heredoc",
+    "javascript heredoc",
+    "javascript eof",
+    "javascript eot",
+    "javascript eol"
+  ],
+  "bugs": {
+    "url": "https://github.com/didanurwanda/eot-js/issues"
+  },
+  "homepage": "https://github.com/didanurwanda/eot-js"
 }
