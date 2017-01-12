@@ -1,6 +1,14 @@
 # EOT-JS
 Javascript heredoc syntax for create a multiline string
 
+### Install
+
+NPM `npm install eot-js --save`
+
+Bower `bower install eot-js --save`
+
+Download [here](https://github.com/didanurwanda/eot-js/archive/master.zip)
+
 ### How to use
 
 ```javascript
