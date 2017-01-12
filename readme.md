@@ -39,7 +39,7 @@ var eot = require('eot-js');
 var engine = require('your-template-engine');
 var config = {
 	templateEngine: 'engine-name',
-	engine: enging, // context
+	engine: engine, // context
 };
 var data = {
 	name: 'Dida Nurwanda'
