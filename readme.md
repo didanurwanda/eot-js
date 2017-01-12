@@ -16,19 +16,18 @@ var eot = require('eot-js');
 var template = eot(function() {
 	/*EOT
 	
-// your template here
+// your string here
 	
 	EOT*/
 ));
 
 console.log(template);
-
 ```
 
 ### Template engine integration
 EOT-JS default support template engine
 
-* [Muscatche](https://github.com/janl/mustache.js)
+* [Mustache](https://github.com/janl/mustache.js)
 * [Handlebars](http://handlebarsjs.com)
 * [EJS <% Embedded JavaScript %>](http://www.embeddedjs.com)
 * [Underscore](http://underscorejs.org/#template)
