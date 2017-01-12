@@ -27,7 +27,7 @@ EOT-JS default support template engine
 * Parser (change {string} to string with data)
 
 ```javascript
-var eot = require('eot-js);
+var eot = require('eot-js');
 var engine = require('your-template-engine');
 var config = {
 	templateEngine: 'engine-name',
