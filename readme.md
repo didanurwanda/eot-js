@@ -4,7 +4,7 @@ Javascript heredoc syntax for create a multiline string
 ### How to use
 
 ```javascrit
-var eot = require('eot-js);
+var eot = require('eot-js');
 var template = eot(function() {
 	/*EOT
 	
