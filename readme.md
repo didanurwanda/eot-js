@@ -25,13 +25,13 @@ console.log(template);
 ```
 
 ### Template engine integration
-EOT-JS default support template engine
+EOT-JS support template engine
 
 * [Mustache](https://github.com/janl/mustache.js)
 * [Handlebars](http://handlebarsjs.com)
 * [EJS <% Embedded JavaScript %>](http://www.embeddedjs.com)
 * [Underscore](http://underscorejs.org/#template)
-* Parser (change {string} to string with data)
+* Parser
 
 ```javascript
 var eot = require('eot-js');
