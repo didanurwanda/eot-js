@@ -1,6 +1,6 @@
 {
   "name": "eot-js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Javascript heredoc syntax for create a multiline string",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://didanurwanda@github.com/didanurwanda/eot-js.git"
+    "url": "git+https://didanurwanda@github.com/didanurwanda/eot-js.git"
   },
   "keywords": [
     "EOT",
